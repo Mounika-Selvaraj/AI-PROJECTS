@@ -1,0 +1,7 @@
+streamlit==1.34.0
+PyMuPDF==1.23.22
+google-generativeai==0.4.1
+langchain==0.1.14
+sentence-transformers==2.6.1
+faiss-cpu==1.7.4
+numpy==1.26.4
