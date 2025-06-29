@@ -8,7 +8,7 @@ import faiss
 import numpy as np
 
 # ====== Gemini API Configuration ======
-GEMINI_API_KEY = "AIzaSyANW8MjQcmUOEK2HWtHxLYLqD3SsNUcfkQ"  
+GEMINI_API_KEY = " Your API key"  
 genai.configure(api_key=GEMINI_API_KEY)
 
 # ====== Streamlit UI Setup ======
