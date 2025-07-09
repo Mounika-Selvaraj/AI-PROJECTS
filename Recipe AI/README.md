@@ -36,5 +36,18 @@ Have random ingredients at home and not sure what to cook? This tool solves that
 
 ---
 
-## 📂 Project Structure
+## Example Usage
+Input:
 
+yaml
+Copy
+Edit
+Ingredients: tomato, onion, rice, garlic
+Diet: Vegetarian
+Cuisine: Indian
+Meal Type: Lunch
+
+##📸 Screenshots
+
+![image](https://github.com/user-attachments/assets/2ec57299-c5bc-4b8c-9452-28c17edf9134)
+![image](https://github.com/user-attachments/assets/590e8831-9d8e-46b8-96cd-5697609b7101)
