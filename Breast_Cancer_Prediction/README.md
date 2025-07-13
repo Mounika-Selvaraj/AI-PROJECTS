@@ -111,7 +111,6 @@ breast-cancer-predictor/
 
 
 ---
----
 
 ## 🛠️ How to Run
 
@@ -125,33 +124,25 @@ Make sure you have **Python 3.7+** installed.
 git clone https://github.com/your-username/breast-cancer-predictor.git
 cd breast-cancer-predictor
 
-###. Install Dependencies
+###2. Install Dependencies
 pip install -r requirements.txt
 
 
-3. Run the App
-bash
-Copy
-Edit
-streamlit run breast_cancer_app.py
-4. Open in Browser
-Visit the following link in your browser:
+###3. Run the App
 
-bash
-Copy
-Edit
+streamlit run breast_cancer_app.py
+
+###4. Open in Browser
+Visit the following link in your browser:
 http://localhost:8501
 
-🧬 Features:
+### 🧬 Features:
 30 numeric features describing cell nuclei characteristics:
-
 radius_mean, texture_mean, perimeter_mean
-
 area_mean, smoothness_mean, etc.
 
-🏷 Diagnosis:
+### Diagnosis:
 M = Malignant (Cancer)
-
 B = Benign (No Cancer)
 
 
