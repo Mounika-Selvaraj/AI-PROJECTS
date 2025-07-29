@@ -4,21 +4,6 @@ This Streamlit-based web application predicts whether a breast tumor is **malign
 
 ---
 
-## 📌 Table of Contents
-
-- [🔍 Project Overview](#project-overview)
-- [🚀 Features](#features)
-- [🧠 Machine Learning Workflow](#machine-learning-workflow)
-- [📊 Visualizations](#visualizations)
-- [💻 Technologies Used](#technologies-used)
-- [📁 Folder Structure](#folder-structure)
-- [🛠️ How to Run](#how-to-run)
-- [📈 Future Enhancements](#future-enhancements)
-- [📚 Dataset Info](#dataset-info)
-- [📌 References](#references)
-
----
-
 ## 🔍 Project Overview
 
 Breast cancer is one of the most common cancers affecting women worldwide. Early detection and diagnosis significantly increase the chances of survival. This app:
